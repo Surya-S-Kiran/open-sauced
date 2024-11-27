@@ -37,7 +37,7 @@ function DropdownMenu({forwardRef, user, _logOutRedirect}) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Docs
+            Documentations
           </SubtleLink>
         </li>
         <li>
